@@ -3513,7 +3513,7 @@ angular.module('ngCordova.plugins.googleAnalytics', [])
 // install   :
 // link      :
 
-// Google Maps needs ALOT of work!
+// Google Maps needs A lot of work!
 // Not for production use
 
 angular.module('ngCordova.plugins.googleMap', [])
